@@ -73,7 +73,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the gLory of mankind<br>未经审视的人生是不值得过的"
-sidebar-avatar: /img/mccree-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
