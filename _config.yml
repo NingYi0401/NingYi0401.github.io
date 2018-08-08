@@ -1,20 +1,20 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title:  宁一 | McCreeNing Blog
+SEOTitle: 宁一的博客 | McCreeNing Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: ""
+description: "不经审视的人生是不值得过的"
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://ningyi0401.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     McCreeNing
+zhihu_username:     宁一
+github_username:    NingYi0401
 #twitter_username:  huxpro
 facebook_username:  huxpro
 
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "for the glory of mankind"
+sidebar-avatar: /img/avatar-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,11 +82,11 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "McCreeNing Weibo",
+        href: "https://weibo.com/5470215412/profile?topnav=1&wvr=6"
     },{
-        title: "Foo",
-        href: "#"
+        title: "McCreeNing ZhiHu",
+        href: "https://www.zhihu.com/people/ning-yi-49/activities"
     },{
         title: "Bar",
         href: "#"
