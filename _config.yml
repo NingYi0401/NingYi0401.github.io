@@ -7,7 +7,7 @@ description: "不经审视的人生是不值得过的"
 keyword: ""
 url: "http://ningyi0401.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
-
+github_repo: "https://github.com/ningyi0401/ningyi0401.github.io" # you code repository
 
 
 # SNS settings
@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "for the glory of mankind"
+sidebar-about-description: "for the glory of mankind!"
 sidebar-avatar: /img/avatar-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
