@@ -68,7 +68,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "  for the glory of mankind"
+sidebar-about-description: "for the glory of mankind"
 sidebar-avatar: /img/avatar-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -88,13 +88,13 @@ friends: [
         title: "McCreeNing ZhiHu",
         href: "https://www.zhihu.com/people/ning-yi-49/activities"
     },{
-        title: "Bar",
+        title: "广告位招租",
+        href: "https://www.baidu.com/"
+    },{
+        title: "love",
         href: "#"
     },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
+        title: "010-82951332",
         href: "#"
     }
 ]
