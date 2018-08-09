@@ -82,12 +82,6 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "McCreeNing Weibo",
-        href: "https://weibo.com/5470215412/profile?topnav=1&wvr=6"
-    },{
-        title: "McCreeNing ZhiHu",
-        href: "https://www.zhihu.com/people/ning-yi-49/activities"
-    },{
         title: "010-82951332",
         href: "#"
     },{
