@@ -1,9 +1,30 @@
-# HuxBlog Boilerplate
+## 前言
+宁一的博客从今天就正式开始了。
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+趁着算法终于收尾的几天，悄咪咪的搞了好久，终于把自己这个网站搭完了。
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+踩在前人们的肩膀上学前端删删改改的也是很有乐趣的一件事情。
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+这个博客挂靠在github pages上面，因为没有钱所以注册的域名没有托管到服务器上面。反正也就是我自己的自留地，所以用这个域名ningyi0401.github.io也就算是可以了吧。
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+## 正文
+
+这次博客搭建用了github pages + jekyll搭建静态页面的方法，直接fork了Clean Blog主题的基础配置，主要前端代码也参考了国人Hux的私人项目。
+
+博文更新采用git commit的方式，使用MarkDown语法写作。写作工具还是我写代码顺手的ATOM。
+
+因为duoshuo项目已经宣布凉凉后续补支持，所以还没有琢磨替代的博文评论入口。
+
+搭建博客使用了私人deepin+jekyll+git本地调试源网站生成样式，后续博文更新使用工作机windows+github Desktop为了码字方便。使用atom markdown插件可以同屏显示markdown网页效果使得写作体验超级舒适。
+
+因为采用静态渲染页面并且使用github的源地址，因此页面刷新加载可能都会遇到问题，这个我短时间内还没有办法，毕竟对于前端技术还不是本业，需要多琢磨琢磨才可以。
+
+## 后记
+
+到这里，第一篇博文发出来就可以代表自己的博客终于可以上线了，音乐外链，default配置，pages设置，主页sidebar等链接大部分都不需要再改动了，短时间内就可以安心思索一下内容输出了，tag目前只有生活跟技术两个。
+生活还可以把微博上面发的乱七八糟的东西同步过来，技术上面的项目最近也是太忙没时间commit，后续应该也会在这个博客里专门发一发算法说明文档和相关技术整理吧。
+
+---
+既然你看到了这里，那就祝你拥有更美好的灵魂吧。
+
+--------宁一 2018.08.09
