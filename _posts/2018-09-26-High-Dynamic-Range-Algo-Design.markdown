@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "High Dynamic Range Algo Design"
+title:      "High Dynamic Range Algorithm Design"
 subtitle:   " \"ISP Design Part I\""
 date:       2018-09-26 12:00:00
 author:     "McCreeNing"
