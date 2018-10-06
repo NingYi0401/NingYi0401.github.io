@@ -4,7 +4,7 @@ title:      "McCreeNing with his friends:Interview Preparation"
 subtitle:   " \"Part I :With AngelcaMaxM\""
 date:       2018-10-06 12:00:00
 author:     "McCreeNing"
-header-img: "img/AngelcaMaxM.jpg"
+header-img: "img/AngelicaMaxM.jpg"
 tags:
     - 采访
     - 生活
@@ -13,7 +13,7 @@ tags:
 
 ## 采访对象介绍
 
-> 孟鑫贺
+> 孟××
 
 女，吉林人，南京师范大学2016届生物相关专业毕业生，目前在南京市教授中学物理。
 
