@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "To obstruct or not?"
+title:      "To Obstruct Or Not?"
 subtitle:   " \"When facing your dislike of the remarriage of parents\""
 date:       2018-10-29 12:00:00
 author:     "McCreeNing"

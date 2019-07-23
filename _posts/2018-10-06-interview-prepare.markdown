@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "McCreeNing with his friends:Interview Preparation"
+title:      "McCreeNing With His Friends:Interview Preparation"
 subtitle:   " \"Part I :With AngelcaMaxM\""
 date:       2018-10-06 12:00:00
 author:     "McCreeNing"

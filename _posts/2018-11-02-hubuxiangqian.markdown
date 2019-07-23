@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "For the glory of music"
+title:      "For The Glory Of Music"
 subtitle:   " \"For lizhi,For music,For shanghai\""
 date:       2018-11-02 12:00:00
 author:     "McCreeNing"

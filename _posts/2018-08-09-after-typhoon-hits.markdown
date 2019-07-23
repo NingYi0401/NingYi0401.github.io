@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "After typhoon hits"
+title:      "After Typhoon Hits"
 subtitle:   " \"台风过境\""
 date:       2018-08-09 17:00:00
 author:     "McCreeNing"

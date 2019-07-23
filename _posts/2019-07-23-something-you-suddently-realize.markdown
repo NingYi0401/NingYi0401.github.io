@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Something you suddently realize"
+title:      "Something You Suddently Realize"
 subtitle:   " \"一些我突然间懂得的事情\""
 date:       2019-07-23 12:00:00
 author:     "McCreeNing"

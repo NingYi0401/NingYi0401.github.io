@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "We are the champion"
+title:      "We Are The Champion"
 subtitle:   " \"Invictus Gaming:登峰造极境\""
 date:       2018-11-08 12:00:00
 author:     "McCreeNing"
