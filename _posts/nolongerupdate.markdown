@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2019-08-05 10:16:42
+ * @LastEditTime: 2019-12-17 15:59:37
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \NingYi0401.github.io\_posts\nolongerupdate.markdown
+ -->
 ---
 layout:     post
 title:      "Something You Suddently Realize"
@@ -57,5 +65,3 @@ tags:
 - 我不在乎别人怎么看待我，但我的行为在乎
 
 - 请一定不要放弃读书
-
-
